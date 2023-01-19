@@ -1,5 +1,5 @@
 # 💫 About Me:
-Data Engineer at GalaxEye Space<br>B.Tech (Electronics & Instrumentation) - 2023<br>VIT Vellore
+Data Engineer at GalaxEye Space<br>B.Tech (Electronics & Instrumentation) - 2023<br>VIT Vellore<br>
 Intrests: Deep Learning, Control Theory.
 
 ## 🌐 Socials:
