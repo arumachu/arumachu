@@ -1,6 +1,6 @@
 # 💫 About Me:
 Data Engineer at GalaxEye Space<br>B.Tech (Electronics & Instrumentation) - 2023<br>VIT Vellore<br>
-Interest: Deep Learning, Signal Processing.
+Interests: Deep Learning, Signal Processing.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arunmah) 
