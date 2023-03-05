@@ -1,7 +1,11 @@
-# 💫 About Me:
-Data Engineer at GalaxEye Space<br>B.Tech (Electronics & Instrumentation) - 2023<br>VIT Vellore<br>
-Interests: Control and optimization algorithms, robotics, machine learning, autonomous systems. <br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arunmah)
+# About Me:
+Data Engineer at GalaxEye Space [Oct 2022 - Jan 2023]<br>B.Tech (Electronics & Instrumentation) - 2023<br>VIT Vellore<br>
+**Interests**: Control and optimization algorithms, robotics, machine learning, autonomous systems. <br>
+
+# Reach Me:
+LinkedIn: https://linkedin.com/in/arunmah <br>
+Mail: iarunmah@gmail.com
+
 <!-- ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arunmah) 
 
