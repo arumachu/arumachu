@@ -1,6 +1,6 @@
 # About Me:
 Data Engineer at GalaxEye Space [Oct 2022 - Jan 2023]<br>B.Tech (Electronics & Instrumentation) - 2023<br>VIT Vellore<br>
-**Interests**: Control and optimization algorithms, robotics, machine learning, autonomous systems. <br>
+**Interests**: Control and optimization algorithms, robotics, machine learning, autonomous systems, Remote Sensing. <br>
 
 # Reach Me:
 LinkedIn: https://linkedin.com/in/arunmah <br>
